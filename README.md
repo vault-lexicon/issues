@@ -27,17 +27,11 @@ When reporting an issue, please provide the following information to help us res
 ### Bug Reports
 Use this for reporting problems with the website functionality, broken links, or unexpected behavior.
 
-### Feature Requests
-Use this to suggest new features or improvements to the Neverwinter Vault.
-
 ### Content Issues
 Report problems with specific vault content, such as:
 - Broken download links
 - Missing or incorrect metadata
 - Inappropriate content
-
-### Account Issues
-For issues related to user accounts, login, or permissions.
 
 ## Before Submitting
 
